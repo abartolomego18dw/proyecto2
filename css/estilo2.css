@@ -15,6 +15,7 @@ header{
 	text-align: center;
 	font-size: 2.500em;
 	color: red;
+	font-family: 'Permanent Marker', cursive;
 }
 header p{
 
@@ -35,7 +36,7 @@ nav ul{
 nav li{
 	
 	display: inline;
-	margin-left: 15.625em;
+	margin-left: 12.500em;
 
 }
 section{
@@ -45,10 +46,14 @@ section{
 	height: 69vh;
 }
 footer{
-
-
+	background-color: rgba(0,0,0,0.4);
+	color: red;
 	width: 100vw;
 	height: 6vh;
+	text-align: center;
+}
+footer p{
+	padding-top: 0.650em; 
 }
 
 #descripcion2{
@@ -72,7 +77,7 @@ footer{
 #episodios2{
 	float: left;
 	width: 20vw;
-	height: 40vh;
+	height: 40.3vh;
 	margin-left: 4.375em;
 	margin-top: 5.000em;
 	color: red;
@@ -82,4 +87,8 @@ footer{
 	margin-top: 0.563em;
 	margin-left: 1.250em;
 	
+}
+a{
+	text-decoration: none;
+	color: red;
 }
