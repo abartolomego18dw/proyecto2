@@ -7,17 +7,42 @@
 	<title>Temporada 1</title>
 </head>
 <body>
-	<header> <a href="index.html"><h1>Stranger Things</h1></a></header>
+	<header> 
+		<a href="index.php"><h1>Stranger Things</h1></a>
+	</header>
+	<div id="todo">
 	<nav>
 		<ul>
-			<a href="Temporada1.php"><li>Temporada 1</li></a>
-			<a href="temporada2.php"><li>Temporada 2</li></a>
-			<a href="Temporada3.php"><li>Temporada 3</li></a>
-			<a href="reparto.php"><li>Reparto</li></a>
+		  <li>
+		    <a href="Temporada1.php">
+		      Temporada 1
+		    </a>
+		  </li>
+		  <li>
+		    <a href="temporada2.php">
+		      Temporada 2
+		    </a>
+		    </li>
+		  <li>
+		    <a href="Temporada3.php">
+		      Temporada 3
+		    </a>
+		  </li>
+		   <li>
+		  	<a href="reparto.php">
+		  		Reparto
+		  	</a>
+		  </li>
 		</ul>
 	</nav>
 	<section>
-		<div id="trailer1"><iframe width="460" height="215" src="https://www.youtube.com/embed/Wre1F5YyIlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		
+		<div id="video">
+			<iframe width="409" height="197" src="https://www.youtube.com/embed/Wre1F5YyIlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	
+
+	</section>
 		<article id="descripcion1">
 			<p>
 				Desde el primer capítulo, la trama de la primera temporada de Stranger Things se articuló en torno a dos grandes temas: la desaparición de Will (Noah Schnapp) tras ver a una extraña criatura, y la aparición de una misteriosa niña llamada Once (o Eleven, Millie Bobby Brown)
@@ -37,12 +62,17 @@
 			</ol>
 		</article>
 		
-	</section>
+		<aside>
+		<img src="imagenes/taza.jpg" id="merch">
+		<a id="pop" href="https://www.emp-online.es/p/the-world-is-turning-upside-down---set-regalo/449880St.html?gclid=EAIaIQobChMIwuHR8PzZ5AIVDMDeCh2I_gxmEAkYASABEgKTA_D_BwE&forceThisShop=1&wt_mc=mp.google.pla.emp_es_all_pla.6496716467.76718824703.449880StES01.816282929005.pla-816282929005.c." target="blank"><b>12,99€</b><br>The World Is Turning Upside Down<br>Set regalo
+			Pack Fan</a>
+
+	</aside>
+	
 	<footer>
-		<p>Andoni Bartolomé, Aitor Ortiz y Xabier Jacob <?php echo(strftime("%d/%m/%Y %H:%M")); ?>
-		<a href="https://twitter.com/Stranger_Things?ref_src=twsrc%5Etfw"class="twitter-follow-button"data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		</p>
+		<h2>Stranger Things - Andoni &nbsp;Bartolome, &nbsp;Xabier Jacob &nbsp;y &nbsp;Aitor Ortiz de Zarate <a href="https://twitter.com/Stranger_Things?ref_src=twsrc%5Etfw"class="twitter-follow-button"data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h2>
 	</footer>
 
+</div>
 </body>
 </html>
