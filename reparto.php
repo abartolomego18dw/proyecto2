@@ -7,7 +7,7 @@
 </head>
 <body>
 	<header>
-		<a href="index.html"><h1>Stranger Things</h1></a>
+		<a href="index.php"><h1>Stranger Things</h1></a>
 	</header>
 	<div id="todo">
 	<nav>
@@ -18,7 +18,7 @@
 		    </a>
 		  </li>
 		  <li>
-		    <a href="temporada2php">
+		    <a href="temporada2.php">
 		      Temporada 2
 		    </a>
 		    </li>
