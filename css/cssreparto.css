@@ -37,7 +37,7 @@ h1 {
  	
 
  }
- ul li{
+ li{
  	margin-top: 1px;
  	border-radius: 10px;
 	float: left;
@@ -90,11 +90,11 @@ ul li a:hover {
 
 section{
 	margin-top: 5vw;
-	margin-left: 10vh;
+	margin-left: 30vh;
 	float: left;
 	border: solid;
-	width: 30vw;
-	height: 30vh;
+	width: 70vw;
+	height: 50vh;
 	background-color: RGB(0, 0, 0,0.7);
 	
 
@@ -109,7 +109,7 @@ section p{
 
 aside {
 	
-	width: 28vw;
+	width: 22vw;
 	height: 11vh;
 	margin-top: 26vw;
 	margin-left: 10vh;
@@ -117,18 +117,18 @@ aside {
 	background-color: RGB(0, 0, 0,0.7);
 	
 }
+
 a {
 	color: white;
 	text-decoration: none;
 }
-
 
  footer{
  	float: left;
  	width: 100vw;
 	height: 5vh;
 	background-color: black;
-	margin-top: 92px;
+	margin-top: 54.5px;
  }
  h2 {
  	text-align: center;
@@ -137,6 +137,59 @@ a {
 	text-shadow: -2px 0 red, 0 1px red, 2px 0 red, 0 -1px red;
 	margin-top: 1vh;
  }
+ ol {
+ 	margin-left: 7vh;
+ 	list-style: none;
+ }
+ ol li {
+ 	padding: 10px;
+ 	width: 140px;
+ 	height: 150px;
+ }
+ ol li a {
+
+ 	width: 8vw;
+	height: 17vh;
+  position: relative; 
+  display: block;
+  line-height: 50px;
+  background: black;
+  border-radius: 50%;
+  color: #666;
+  transition: .5s;
+  color: white;
+  
+}
+
+ol li a::before {
+
+	 width: 8vw;
+	height: 17vh;
+  border-radius: 40%;
+  background: #E50000;
+  transition: .5s;
+  transform: scale(1.1);
+  z-index: -1;
+   box-shadow: 2px 2px 10px 10px red;
+ 
+}
+
+ol li a:hover::before {
+  transform: scale(.9);
+  box-shadow: 0 0 15px #E50000;
+   box-shadow: 2px 2px 10px 10px red;
+}
+
+ol li a:hover {
+  color: #E50000;
+  box-shadow: 0 0 5 30px #E50000;
+  text-shadow: 0 0 5px #E50000;
+   box-shadow: 2px 2px 10px 10px #E50000;
+}
+
+p{
+	margin-right: 30px;
+}
 
 #todo {
 	float: left;
@@ -146,46 +199,22 @@ a {
 }
 
 #merch {
-	position: absolute;
-	left: 5.05vw;
-	top: 69.5vh;
 	width: 72px;
 	height: 72px;
-	
 }
-
 #pop {
 	position: absolute;
 	left: 12vw;
 	top: 71vh;
 
 }
-#descripcion1{
-	float: left;
-	margin-left: 2.500em;
-	margin-top: 8.750em;
-	width: 30vw;
-	height: 14vh;
-	color: black;
-	background-color: rgba(255,255,255,0.4);
-	border: solid;
-}
-
-#episodios1{
+#fotos {
+	width: 8vw;
+	height: 17vh;
+	border-radius: 40% ;
 	border: black solid;
-	float: left;
-	width: 20vw;
-	height: 40vh;
-	margin-left: 4.375em;
-	margin-top: 5.000em;
-	color: red;
-	background-color: rgba(0,0,0,0.7);
+}
+#fotos:hover{
+	/*border-color: red;*/
 }
 
-#episodios1 li{
-	margin-top: 0.750em;
-	margin-left: 1.250em;
-
-	
-	
-}

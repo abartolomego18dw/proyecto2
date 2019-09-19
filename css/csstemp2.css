@@ -109,7 +109,7 @@ section p{
 
 aside {
 	
-	width: 28vw;
+	width: 22vw;
 	height: 11vh;
 	margin-top: 26vw;
 	margin-left: 10vh;
@@ -128,7 +128,7 @@ a {
  	width: 100vw;
 	height: 5vh;
 	background-color: black;
-	margin-top: 92px;
+	margin-top: 91.5px;
  }
  h2 {
  	text-align: center;
@@ -175,9 +175,9 @@ a {
 	border: black solid;
 	float: left;
 	width: 20vw;
-	height: 40vh;
+	height: 45vh;
 	margin-left: 4.375em;
-	margin-top: 5.000em;
+	margin-top: 4.000em;
 	color: red;
 	background-color: rgba(0,0,0,0.7);
 }
