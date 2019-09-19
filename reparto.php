@@ -13,23 +13,23 @@
 	<nav>
 		<ul>
 		  <li>
-		    <a href="temporada1.html">
+		    <a href="Temporada1.php">
 		      Temporada 1
 		    </a>
 		  </li>
 		  <li>
-		    <a href="temporada2.html">
+		    <a href="temporada2php">
 		      Temporada 2
 		    </a>
 		    </li>
 		  <li>
-		    <a href="temporada3.html">
+		    <a href="Temporada3.php">
 		      Temporada 3
 		    </a>
 		    
 		  </li>
 		  <li>
-		  	<a href="reparto.html">
+		  	<a href="reparto.php">
 		  		Reparto
 		  	</a>
 		  </li>
@@ -80,7 +80,8 @@
 
 	
 	<footer>
-		<h2>Stranger Things - Andoni &nbsp;Bartolome, &nbsp;Xabier Jacob &nbsp;y &nbsp;Aitor Ortiz de Zarate</h2>
+		<h2>Stranger Things - Andoni &nbsp;Bartolome, &nbsp;Xabier Jacob &nbsp;y &nbsp;Aitor Ortiz de Zarate <?php echo(strftime("%d/%m/%Y %H:%M")); ?>
+			<a href="https://twitter.com/Stranger_Things?ref_src=twsrc%5Etfw"class="twitter-follow-button"data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h2>
 	</footer>
 	</div>
 

@@ -7,13 +7,13 @@
 	<title>Temporada 1</title>
 </head>
 <body>
-	<header> <p>STRANGER THINGS</p></header>
+	<header> <a href="index.html"><h1>Stranger Things</h1></a></header>
 	<nav>
 		<ul>
-			<a href="Temporada1.html"><li>Temporada 1</li></a>
-			<a href="Temporada2.html"><li>Temporada 2</li></a>
-			<a href="Temporada3.html"><li>Temporada 3</li></a>
-			<a href="Reparto.html"><li>Reparto</li></a>
+			<a href="Temporada1.php"><li>Temporada 1</li></a>
+			<a href="temporada2.php"><li>Temporada 2</li></a>
+			<a href="Temporada3.php"><li>Temporada 3</li></a>
+			<a href="reparto.php"><li>Reparto</li></a>
 		</ul>
 	</nav>
 	<section>
