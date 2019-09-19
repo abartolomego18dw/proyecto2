@@ -7,7 +7,7 @@
 </head>
 <body>
 	<header>
-		<a href="index.php"><h1>Stranger Things</h1></a>
+		<a href="../index.php"><h1>Stranger Things</h1></a>
 	</header>
 	<div id="todo">
 	<nav>
