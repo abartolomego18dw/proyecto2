@@ -5,7 +5,7 @@
 body {
 	background-image: url("../imagenes/fondo4.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% 100%;
 }
 
 header{
@@ -19,8 +19,8 @@ header{
 h1 {
 	text-align: center;
 	color: black;
-	font-size: 50px;
-	text-shadow: -2px 0 red, 0 1px red, 2px 0 red, 0 -1px red;
+	font-size: 7.610350076103501vh;
+	text-shadow: -0.063em 0 red, 0 0.032em red, 0.063em 0 red, 0 -0.032em red;
 	margin-top: 2vh;
 }
  nav{
@@ -31,7 +31,7 @@ h1 {
  	/*background-color: RGB(0, 0, 0, 0.3);*/
  }
  ul{
- 	margin-top: 10px;
+ 	margin-top: 1.5vh;
  	list-style: none;
  	margin-left: 35vw;
 
@@ -42,8 +42,8 @@ h1 {
  	margin-top: 1px;
  	border-radius:10px;
 	float: left;
-	height: 50px;
-	width: 100px;
+	height: 7.610350076103501vh;
+	width: 7.320644216691069vw;
 	text-align: center;
 	 margin: 0 5px;
 
@@ -52,13 +52,13 @@ h1 {
 ul li a {
   position: relative; 
   display: block;
-  height: 50px;
-	width: 100px;
+  height: 7.610350076103501vh;
+	width: 7.320644216691069vw;
   text-align: center;
-  line-height: 50px;
+  line-height: 7.610350076103501vh;
   background: black;
   border-radius: 50%;
-  font-size: 12px;
+  font-size: 1.82648401826484vh;
   color: #666;
   transition: .5s;
   color: white;
@@ -70,8 +70,8 @@ ul li a::before {
   position: absolute;
   top: 0;
   left: 0;
-  height: 50px;
-	width: 100px;
+  height: 7.610350076103501vh;
+	width: 7.320644216691069vw;
   border-radius: 50%;
   background: #E50000;
   transition: .5s;
@@ -91,12 +91,13 @@ ul li a:hover {
 }
 
 section{
+	font-size: 2.2831050228310503vh;
 	margin-top: 5vw;
 	margin-left: 10vh;
 	float: left;
 	border: solid;
-	width: 30vw;
-	height: 30vh;
+	width: 30%;
+	height: 36%;
 	background-color: RGB(0, 0, 0,0.7);
 	
 
@@ -105,16 +106,16 @@ section{
 section p{
 	
 	color: white;
-	margin-left: 10px;
-	margin-top: 10px;
+	margin-left: 0.625em;
+	margin-top: 0.625em;
 }
 
 aside {
-	
-	width: 22vw;
-	height: 11vh;
-	margin-top: 26vw;
-	margin-left: 10vh;
+	font-size: 2.2831050228310503vh;
+	width: 24%;
+	height: 13%;
+	margin-top: 24.000em;
+	margin-left: 4.106em;
 	border: solid;
 	background-color: RGB(0, 0, 0,0.7);
 	
@@ -126,17 +127,18 @@ a {
 }
 
  footer{
+ 	
  	float: left;
  	width: 100vw;
 	height: 5vh;
 	background-color: black;
-	margin-top: 92px;
+	position: absolute;
+	bottom: 0px;
  }
  h2 {
+ 	font-size: 2.2831050228310503vh;
  	text-align: center;
-	color: black;
-	font-size: 15px;
-	text-shadow: -2px 0 red, 0 1px red, 2px 0 red, 0 -1px red;
+	color: red;
 	margin-top: 1vh;
  }
 
@@ -149,8 +151,8 @@ a {
 }
 
 #merch {
-	width: 72px;
-	height: 72px;
+	width: 5.270863836017569vw;
+	height: 10.95890410958904vh;
 }
 #pop {
 	position: absolute;
