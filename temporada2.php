@@ -37,7 +37,7 @@
 	<section>
 		
 		<div id="video">
-			<iframe width="409" height="197" src="https://www.youtube.com/embed/knLy7MtfHHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="330" height="197" src="https://www.youtube.com/embed/knLy7MtfHHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 	<article id="descripcion1">

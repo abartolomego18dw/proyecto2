@@ -92,7 +92,6 @@ section{
 	margin-top: 5vw;
 	margin-left: 10vh;
 	float: left;
-	border: solid;
 	width: 30vw;
 	height: 30vh;
 	background-color: RGB(0, 0, 0,0.7);
@@ -109,10 +108,10 @@ section p{
 
 aside {
 	
-	width: 28vw;
+	width: 34.5vw;
 	height: 11vh;
-	margin-top: 26vw;
-	margin-left: 10vh;
+	margin-top: 34.7vw;
+	margin-left: 7.4vh;
 	border: solid;
 	background-color: RGB(0, 0, 0,0.7);
 	
@@ -175,7 +174,7 @@ a {
 	border: black solid;
 	float: left;
 	width: 20vw;
-	height: 40vh;
+	height: 43vh;
 	margin-left: 4.375em;
 	margin-top: 5.000em;
 	color: red;

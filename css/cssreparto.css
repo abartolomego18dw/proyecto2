@@ -94,7 +94,7 @@ section{
 	float: left;
 	border: solid;
 	width: 70vw;
-	height: 50vh;
+	height: 53vh;
 	background-color: RGB(0, 0, 0,0.7);
 	
 
@@ -128,7 +128,7 @@ a {
  	width: 100vw;
 	height: 5vh;
 	background-color: black;
-	margin-top: 54.5px;
+	margin-top: 4.300em;
  }
  h2 {
  	text-align: center;
@@ -138,7 +138,7 @@ a {
 	margin-top: 1vh;
  }
  ol {
- 	margin-left: 7vh;
+ 	margin-left: 20vh;
  	list-style: none;
  }
  ol li {

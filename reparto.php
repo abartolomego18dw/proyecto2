@@ -55,18 +55,7 @@
 			<li><a href="https://es.wikipedia.org/wiki/Natalia_Dyer" target="blank"><img src="imagenes/Natalia.jpg" id="fotos"></a>
 			<p>Natalia Dyer</p>
 			</li>
-			<li><a href="https://es.wikipedia.org/wiki/Joe_Keery" target="blank"><img src="imagenes/Joe.jpg" id="fotos"></a>
-			<p>Joe Keery</p>
-			</li>
-			<li><a href="https://es.wikipedia.org/wiki/Charlie_Heaton" target="blank"><img src="imagenes/Charlie.jpg" id="fotos"></a>
-			<p>Charlie Heaton</p>
-			</li>
-			<li><a href="https://es.wikipedia.org/wiki/David_Harbour" target="blank"><img src="imagenes/David.png" id="fotos"></a>
-			<p>David Harbour</p>
-			</li>
-			<li><a href="https://es.wikipedia.org/wiki/Sadie_Sink" target="blank"><img src="imagenes/Sadie.jpg" id="fotos"></a>
-			<p>Sadie Sinkr</p>
-			</li>
+		
 			
 			
 
