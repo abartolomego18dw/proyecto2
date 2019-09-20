@@ -5,7 +5,7 @@
 body {
 	background-image: url("../imagenes/fondo4.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% 100%;
 }
 
 header{
@@ -19,7 +19,7 @@ header{
 h1 {
 	text-align: center;
 	color: black;
-	font-size: 50px;
+	font-size: 7.610350076103501vh;
 	text-shadow: -2px 0 red, 0 1px red, 2px 0 red, 0 -1px red;
 	margin-top: 2vh;
 }

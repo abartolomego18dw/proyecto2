@@ -55,7 +55,7 @@
 
 	
 	<footer>
-		<h2>Stranger Things - Andoni &nbsp;Bartolome, &nbsp;Xabier Jacob &nbsp;y &nbsp;Aitor Ortiz de Zarate <?php echo(strftime("%d/%m/%Y %H:%M")); ?>
+		<h2>Stranger Things - Andoni Bartolome, Xabier Jacob y Aitor Ortiz de Zarate <?php echo(strftime("%d/%m/%Y %H:%M")); ?>
 			<a href="https://twitter.com/Stranger_Things?ref_src=twsrc%5Etfw"class="twitter-follow-button"data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h2>
 	</footer>
 	</div>

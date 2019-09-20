@@ -6,7 +6,7 @@ body{
 
 	background-image: url("../imagenes/fondo4.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% 100%;
 }
 header{
 	float: left;
@@ -90,17 +90,17 @@ section{
 	margin-top: 5vw;
 	margin-left: 10vh;
 	float: left;
-	border: solid;
+	
 	width: 30vw;
 	height: 30vh;
 	background-color: RGB(0, 0, 0,0.7);
 }
 aside {
 	
-	width: 25vw;
+	width: 30vw;
 	height: 11vh;
-	margin-top: 26vw;
-	margin-left: 10vh;
+	margin-top: 34.7vw;
+	margin-left: 7.4vh;
 	border: solid;
 	background-color: RGB(0, 0, 0,0.7);
 	
@@ -130,7 +130,7 @@ aside {
 	margin-left: 2.500em;
 	margin-top: 8.750em;
 	width: 30vw;
-	height: 14vh;
+	height: 17vh;
 	color: black;
 	background-color: rgba(255,255,255,0.4);
 	border: solid;
@@ -140,7 +140,7 @@ aside {
 	border: black solid;
 	float: left;
 	width: 20vw;
-	height: 40vh;
+	height: 43vh;
 	margin-left: 4.375em;
 	margin-top: 5.000em;
 	color: red;
